@@ -2,4 +2,4 @@ ipywidgets==7.7.1
 matplotlib
 numpy
 opencv-python-headless
-opencv-contrib-python
+opencv-contrib-python-headless
